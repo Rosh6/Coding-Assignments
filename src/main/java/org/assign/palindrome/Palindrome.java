@@ -38,10 +38,6 @@ public static void main(String[] args) {
 			System.out.println("Not a palindrome");
 		}
 		
-		else if((str.isEmpty())== true) {
-			System.out.println("String is empty");
-		}
-		
 		else checkStr(str);
 		
 	}
